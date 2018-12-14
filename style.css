@@ -1,0 +1,106 @@
+.container
+{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+    text-align: center;
+    margin: ;
+}
+
+
+.justify {
+    width: 350px;
+    text-align: justify;
+}
+section
+{
+    text-align: center;
+    font-size: 29px;
+    margin-top: 4%;
+    font-family: 'Parisienne', cursive;
+
+}
+
+.paysage1
+{
+  justify-content: center;
+  width: 100%;
+}
+
+.paysage2
+{
+    float: center;
+    width: 1425px;
+    height: 400px;
+    position: relative;
+}
+
+
+
+
+body
+{
+    background-color: #fdfdfd;
+}
+
+h1, h4, h3, h2
+{
+    text-align: center;
+}
+
+h1
+{
+font-family: 'Parisienne', cursive;
+font-size: 60px;
+}
+
+h2
+{
+font-family: 'Parisienne', cursive;
+font-size: 35px;}
+
+p
+{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.description 
+{
+    font-style: italic;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+h4
+{ font-family: 'Quicksand', sans-serif; 
+}
+
+.container2
+{
+    background-color: #8e8e8d;
+    border-radius: 10px;
+    padding-top: 6px
+
+
+}
+
+.list1{
+    text-align: center;
+}
+.list2 {
+    text-align: center;
+}
+ 
+.list1 li {
+    display: inline;
+    list-style: none;
+    margin: 10px;
+}
+
+.list2 li {
+    display: inline;
+    list-style: none;
+    text-decoration: underline;
+    font-family: 'Quicksand', sans-serif;
+}
